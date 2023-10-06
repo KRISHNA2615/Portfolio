@@ -1,0 +1,41 @@
+.top{
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding-top: 280px;
+    padding-bottom: 280px;
+}
+.about-1{
+    background-color: rgb(255, 239, 203);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.skills{
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding-top: 275px;
+    padding-bottom: 275px;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.contact{
+    background-color: rgb(255, 239, 203);
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+
+.footer{
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding-top: 250px;
+    padding-bottom: 50px;
+}
+.krish{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
